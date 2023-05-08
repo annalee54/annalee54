@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Anna Lee! 
+- 🔭 I’m currently working on building my portfolio
+- 🌱 I’m currently learning Java
+- 🤔 I’m looking for any advice you have for a new software developer!
+- 📫 How to reach me: annalee5492@gmail.com
+- ⚡ Fun fact: I have the cutest dog named potato 
+
 <!--
 **annalee54/annalee54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
